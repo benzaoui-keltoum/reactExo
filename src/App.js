@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import Sousou from './Chalang10/Sousou'
+import Didou from './Chalang9/Didou';
+import Work from './Chalange11/Work';
 
 
 /*
@@ -54,7 +55,7 @@ function App() {
     return (
     <div className="App">
     
-<Sousou> </Sousou>
+<Work> </Work>
 
 
     </div>
